@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+ header h1 {
+ background-color: black;
+ color: aliceblue;
+ text-align: center;
+ padding: 10px; 
+}
+
+nav h1 {
+    background-color:purple;
+    padding: 8px;
+    text-align: center;
+    color: rgb(51, 255, 0);
+}
+section{
+    overflow: hidden;
+}
+aside h1
+{
+background-color: saddlebrown;
+color: snow;
+float: left;
+height: 500px;
+width: 20%;
+
+text-align: center;
+}
+article h1{
+background-color: teal
+;
+color: white;
+float: right;
+height: 500px;
+width: 80%;
+height: 50000;
+text-align: center;
+}
+footer h1 {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
